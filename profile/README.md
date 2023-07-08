@@ -1,3 +1,6 @@
+> **Note**: 
+> Previously known as https://github.com/libreoffice-docker
+
 ## About
 
 The LibreOffice with unoserver on Docker
