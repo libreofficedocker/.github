@@ -1,7 +1,3 @@
-> **Note**
-> 
-> This is an alternative orgainzation to https://github.com/libreoffice-docker
-
 ## About
 
 The LibreOffice with unoserver on Docker
