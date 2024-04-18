@@ -22,6 +22,11 @@ This image uses the [`alpine`](https://hub.docker.com/_/alpine) as base images.
 docker pull libreofficedocker/libreoffice-unoserver:${ALPINE_VERSION}
 ```
 
+> [!NOTE]
+> The container images are being build and pushed to the registry periodically through an automated process. It schedules a build every week to ensure that the images are up-to-date with the latest security patches and updates.
+>
+> Runs at 00:00, only on Saturday every week.
+
 ### REST API
 
 This image shipped with REST API for unoserver by default.
